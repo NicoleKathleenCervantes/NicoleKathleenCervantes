@@ -13,10 +13,10 @@ Hello! I'm Nicole Kathleen Cervantes, a passionate individual with a strong back
 
 ## Certification
 
-- [**Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**](mailto:https://catalog-education.oracle.com/pls/certview/sharebadge?id=AE272A48BC1D6BDE416376A0F3A6D139EDD762FCCFBD79D1A4ABF7249F688465 )
-- [**Oracle Cloud Data Management 2023 Certified Foundations Associate**](mailto:https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B963E71A8AC6152A14AA8E2CDDE7C86850F9692B3B72520F1A18B6BAF32D07C )
-- [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](mailto:https://catalog-education.oracle.com/pls/certview/sharebadge?id=73EC83B3BF4346C6C6DBBF9E75EA165D21DF256B72C738B0A6BF1838FF00A048 )
-- [**SQL and Relational Databases 101**](mailto:https://courses.cognitiveclass.ai/certificates/9b7ac6148300462aa2527532e7468fad )
+- [**Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=AE272A48BC1D6BDE416376A0F3A6D139EDD762FCCFBD79D1A4ABF7249F688465 )
+- [**Oracle Cloud Data Management 2023 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=8B963E71A8AC6152A14AA8E2CDDE7C86850F9692B3B72520F1A18B6BAF32D07C )
+- [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=73EC83B3BF4346C6C6DBBF9E75EA165D21DF256B72C738B0A6BF1838FF00A048 )
+- [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/9b7ac6148300462aa2527532e7468fad )
 
 ## Skill Sets
 
